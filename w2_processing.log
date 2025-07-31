@@ -393,3 +393,155 @@ JOVSSIINLNVLHOdNI) or year (None) from W2_080720250006.pdf
 2025-07-22 01:24:41,787 - INFO - Processing complete!
 2025-07-22 01:24:41,787 - INFO - Successfully processed: 2
 2025-07-22 01:24:41,787 - INFO - Failed: 0
+2025-07-31 17:32:04,965 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-31 17:32:04,965 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 17:32:04,967 - INFO - Found 2 files to process
+2025-07-31 17:32:04,968 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-31 17:32:12,785 - INFO - Renamed: W2_080720250003_1.pdf -> Treasury_Internal_W2_2019_2.pdf
+2025-07-31 17:32:12,786 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-31 17:32:20,806 - INFO - Renamed: W2_080720250003_1.pdf -> Treasury_Internal_W2_2019_3.pdf
+2025-07-31 17:32:20,806 - INFO - Processing complete!
+2025-07-31 17:32:20,806 - INFO - Successfully processed: 2
+2025-07-31 17:32:20,806 - INFO - Failed: 0
+2025-07-31 17:37:53,176 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 17:37:53,176 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 17:37:53,176 - INFO - Found 4 files to process
+2025-07-31 17:37:53,176 - INFO - Processing: test1.pdf
+2025-07-31 17:38:00,333 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_4.pdf
+2025-07-31 17:38:00,333 - INFO - Processing: test1_sideways.pdf
+2025-07-31 17:38:07,904 - INFO - Renamed: test1_sideways.pdf -> Treasury_Internal_W2_2019_5.pdf
+2025-07-31 17:38:07,904 - INFO - Processing: test1.pdf
+2025-07-31 17:38:15,277 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_6.pdf
+2025-07-31 17:38:15,277 - INFO - Processing: test1_sideways.pdf
+2025-07-31 17:38:22,638 - INFO - Renamed: test1_sideways.pdf -> Treasury_Internal_W2_2019_7.pdf
+2025-07-31 17:38:22,638 - INFO - Processing complete!
+2025-07-31 17:38:22,638 - INFO - Successfully processed: 4
+2025-07-31 17:38:22,639 - INFO - Failed: 0
+2025-07-31 17:40:24,402 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 17:40:24,403 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 17:40:24,404 - INFO - Found 2 files to process
+2025-07-31 17:40:24,405 - INFO - Processing: test1.pdf
+2025-07-31 17:40:32,097 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_8.pdf
+2025-07-31 17:40:32,097 - INFO - Processing: test1.pdf
+2025-07-31 17:40:40,194 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_9.pdf
+2025-07-31 17:40:40,195 - INFO - Processing complete!
+2025-07-31 17:40:40,195 - INFO - Successfully processed: 2
+2025-07-31 17:40:40,196 - INFO - Failed: 0
+2025-07-31 17:46:59,430 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 17:46:59,430 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 17:46:59,430 - INFO - Found 2 files to process
+2025-07-31 17:46:59,430 - INFO - Processing: test1.pdf
+2025-07-31 17:47:06,482 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_10.pdf
+2025-07-31 17:47:06,482 - INFO - Processing: test1.pdf
+2025-07-31 17:47:14,095 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_11.pdf
+2025-07-31 17:47:14,095 - INFO - Processing complete!
+2025-07-31 17:47:14,095 - INFO - Successfully processed: 2
+2025-07-31 17:47:14,096 - INFO - Failed: 0
+2025-07-31 18:09:46,747 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 18:09:46,747 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 18:09:46,749 - INFO - Found 2 files to process
+2025-07-31 18:09:46,750 - INFO - Processing: test1.pdf
+2025-07-31 18:09:54,613 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_12.pdf
+2025-07-31 18:09:54,614 - INFO - Processing: test1.pdf
+2025-07-31 18:10:02,111 - INFO - Renamed: test1.pdf -> Treasury_Internal_W2_2019_13.pdf
+2025-07-31 18:10:02,112 - INFO - Processing complete!
+2025-07-31 18:10:02,112 - INFO - Successfully processed: 2
+2025-07-31 18:10:02,112 - INFO - Failed: 0
+2025-07-31 18:10:46,798 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 18:10:46,799 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 18:10:46,799 - INFO - Found 2 files to process
+2025-07-31 18:10:46,801 - INFO - Processing: test1.pdf
+2025-07-31 18:10:54,259 - INFO - Renamed: test1.pdf -> MAYNARD_ST_W2_2019.pdf
+2025-07-31 18:10:54,260 - INFO - Processing: test1.pdf
+2025-07-31 18:11:01,307 - INFO - Renamed: test1.pdf -> MAYNARD_ST_W2_2019_1.pdf
+2025-07-31 18:11:01,307 - INFO - Processing complete!
+2025-07-31 18:11:01,307 - INFO - Successfully processed: 2
+2025-07-31 18:11:01,307 - INFO - Failed: 0
+2025-07-31 18:30:13,480 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 18:30:13,481 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 18:30:13,482 - INFO - Found 2 files to process
+2025-07-31 18:30:13,482 - INFO - Processing: test1.pdf
+2025-07-31 18:30:21,036 - INFO - Renamed: test1.pdf -> MAYNARD_ST_W2_2019_2.pdf
+2025-07-31 18:30:21,036 - INFO - Processing: test1.pdf
+2025-07-31 18:30:28,923 - INFO - Renamed: test1.pdf -> MAYNARD_ST_W2_2019_3.pdf
+2025-07-31 18:30:28,923 - INFO - Processing complete!
+2025-07-31 18:30:28,923 - INFO - Successfully processed: 2
+2025-07-31 18:30:28,923 - INFO - Failed: 0
+2025-07-31 18:34:04,705 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 18:34:04,705 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 18:34:04,707 - INFO - Found 2 files to process
+2025-07-31 18:34:04,707 - INFO - Processing: test1.pdf
+2025-07-31 18:34:12,324 - INFO - Renamed: test1.pdf -> ELSA_A_ABREU_W2_2019.pdf
+2025-07-31 18:34:12,324 - INFO - Processing: test1.pdf
+2025-07-31 18:34:19,518 - INFO - Renamed: test1.pdf -> ELSA_A_ABREU_W2_2019_1.pdf
+2025-07-31 18:34:19,518 - INFO - Processing complete!
+2025-07-31 18:34:19,518 - INFO - Successfully processed: 2
+2025-07-31 18:34:19,518 - INFO - Failed: 0
+2025-07-31 19:02:23,006 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 19:02:23,007 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 19:02:23,008 - INFO - Found 2 files to process
+2025-07-31 19:02:23,008 - INFO - Processing: test1.pdf
+2025-07-31 19:02:30,505 - INFO - Renamed: test1.pdf -> ELSA_A_ABREU_W2_2019_2.pdf
+2025-07-31 19:02:30,505 - INFO - Processing: test1.pdf
+2025-07-31 19:02:38,321 - INFO - Renamed: test1.pdf -> ELSA_A_ABREU_W2_2019_3.pdf
+2025-07-31 19:02:38,321 - INFO - Processing complete!
+2025-07-31 19:02:38,321 - INFO - Successfully processed: 2
+2025-07-31 19:02:38,321 - INFO - Failed: 0
+2025-07-31 19:08:17,614 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 19:08:17,614 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 19:08:17,616 - INFO - Found 2 files to process
+2025-07-31 19:08:17,616 - INFO - Processing: test1.pdf
+2025-07-31 19:08:25,303 - INFO - Renamed: test1.pdf -> ELSA_A_ABREU_W2_2019_4.pdf
+2025-07-31 19:08:25,303 - INFO - Processing: test1.pdf
+2025-07-31 19:08:32,357 - INFO - Renamed: test1.pdf -> ELSA_A_ABREU_W2_2019_5.pdf
+2025-07-31 19:08:32,357 - INFO - Processing complete!
+2025-07-31 19:08:32,357 - INFO - Successfully processed: 2
+2025-07-31 19:08:32,358 - INFO - Failed: 0
+2025-07-31 19:18:29,393 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 19:18:29,393 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 19:18:29,395 - INFO - Found 2 files to process
+2025-07-31 19:18:29,395 - INFO - Processing: test1.pdf
+2025-07-31 19:18:43,583 - INFO - Extracted page 1 to C:\Users\marit\Documents\Renamed Documents\ELSA_A_ABREU_W2_2019_6.pdf
+2025-07-31 19:18:43,584 - INFO - Renamed: test1.pdf_doc1 -> ELSA_A_ABREU_W2_2019_6.pdf
+2025-07-31 19:18:43,598 - INFO - Extracted page 2 to C:\Users\marit\Documents\Renamed Documents\EpIn_INecalkin_W2_2020.pdf
+2025-07-31 19:18:43,599 - INFO - Renamed: test1.pdf_doc2 -> EpIn_INecalkin_W2_2020.pdf
+2025-07-31 19:18:43,599 - INFO - Processing: test1.pdf
+2025-07-31 19:18:59,627 - INFO - Extracted page 1 to C:\Users\marit\Documents\Renamed Documents\ELSA_A_ABREU_W2_2019_7.pdf
+2025-07-31 19:18:59,627 - INFO - Renamed: test1.pdf_doc1 -> ELSA_A_ABREU_W2_2019_7.pdf
+2025-07-31 19:18:59,640 - INFO - Extracted page 2 to C:\Users\marit\Documents\Renamed Documents\EpIn_INecalkin_W2_2020_1.pdf
+2025-07-31 19:18:59,640 - INFO - Renamed: test1.pdf_doc2 -> EpIn_INecalkin_W2_2020_1.pdf
+2025-07-31 19:18:59,640 - INFO - Processing complete!
+2025-07-31 19:18:59,640 - INFO - Successfully processed: 4
+2025-07-31 19:18:59,640 - INFO - Failed: 0
+2025-07-31 19:21:41,865 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 19:21:41,866 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 19:21:41,867 - INFO - Found 2 files to process
+2025-07-31 19:21:41,867 - INFO - Processing: test1.pdf
+2025-07-31 19:21:55,899 - INFO - Extracted page 1 to C:\Users\marit\Documents\Renamed Documents\ELSA_A_ABREU_W2_2019_8.pdf
+2025-07-31 19:21:55,899 - INFO - Renamed: test1.pdf_doc1 -> ELSA_A_ABREU_W2_2019_8.pdf
+2025-07-31 19:21:55,910 - INFO - Extracted page 2 to C:\Users\marit\Documents\Renamed Documents\EpIn_INecalkin_W2_2020_2.pdf
+2025-07-31 19:21:55,911 - INFO - Renamed: test1.pdf_doc2 -> EpIn_INecalkin_W2_2020_2.pdf
+2025-07-31 19:21:55,911 - INFO - Processing: test1.pdf
+2025-07-31 19:22:10,617 - INFO - Extracted page 1 to C:\Users\marit\Documents\Renamed Documents\ELSA_A_ABREU_W2_2019_9.pdf
+2025-07-31 19:22:10,617 - INFO - Renamed: test1.pdf_doc1 -> ELSA_A_ABREU_W2_2019_9.pdf
+2025-07-31 19:22:10,625 - INFO - Extracted page 2 to C:\Users\marit\Documents\Renamed Documents\EpIn_INecalkin_W2_2020_3.pdf
+2025-07-31 19:22:10,625 - INFO - Renamed: test1.pdf_doc2 -> EpIn_INecalkin_W2_2020_3.pdf
+2025-07-31 19:22:10,625 - INFO - Processing complete!
+2025-07-31 19:22:10,625 - INFO - Successfully processed: 4
+2025-07-31 19:22:10,625 - INFO - Failed: 0
+2025-07-31 19:25:59,673 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test_1
+2025-07-31 19:25:59,673 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-31 19:25:59,675 - INFO - Found 2 files to process
+2025-07-31 19:25:59,675 - INFO - Processing: test1.pdf
+2025-07-31 19:26:13,416 - INFO - Extracted page 1 to C:\Users\marit\Documents\Renamed Documents\ELSA_A_ABREU_W2_2019.pdf
+2025-07-31 19:26:13,416 - INFO - Renamed: test1.pdf_doc1 -> ELSA_A_ABREU_W2_2019.pdf
+2025-07-31 19:26:13,426 - INFO - Extracted page 2 to C:\Users\marit\Documents\Renamed Documents\EpIn_INecalkin_W2_2020.pdf
+2025-07-31 19:26:13,426 - INFO - Renamed: test1.pdf_doc2 -> EpIn_INecalkin_W2_2020.pdf
+2025-07-31 19:26:13,426 - INFO - Processing: test1.pdf
+2025-07-31 19:26:27,205 - INFO - Extracted page 1 to C:\Users\marit\Documents\Renamed Documents\ELSA_A_ABREU_W2_2019_1.pdf
+2025-07-31 19:26:27,206 - INFO - Renamed: test1.pdf_doc1 -> ELSA_A_ABREU_W2_2019_1.pdf
+2025-07-31 19:26:27,215 - INFO - Extracted page 2 to C:\Users\marit\Documents\Renamed Documents\EpIn_INecalkin_W2_2020_1.pdf
+2025-07-31 19:26:27,215 - INFO - Renamed: test1.pdf_doc2 -> EpIn_INecalkin_W2_2020_1.pdf
+2025-07-31 19:26:27,215 - INFO - Processing complete!
+2025-07-31 19:26:27,215 - INFO - Successfully processed: 4
+2025-07-31 19:26:27,215 - INFO - Failed: 0
