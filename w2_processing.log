@@ -1,0 +1,395 @@
+2025-07-21 23:40:16,913 - INFO - Starting batch processing from C:\Users\marit\Documents\Scanned Documents\W2_080720250007.pdf
+2025-07-21 23:40:16,913 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-21 23:40:16,915 - INFO - Found 0 files to process
+2025-07-21 23:40:16,915 - WARNING - No supported files found in input directory
+2025-07-21 23:41:43,619 - INFO - Starting batch processing from C:\Users\marit\Documents\Scanned Documents
+2025-07-21 23:41:43,620 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-21 23:41:43,622 - INFO - Found 14 files to process
+2025-07-21 23:41:43,622 - INFO - Processing: W2_080720250001.pdf
+2025-07-21 23:41:45,075 - WARNING - Could not extract name (xer pue) or year (None) from W2_080720250001.pdf
+2025-07-21 23:41:45,075 - INFO - Processing: W2_080720250002.pdf
+2025-07-21 23:41:46,353 - WARNING - Could not extract name (other comp) or year (None) from W2_080720250002.pdf
+2025-07-21 23:41:46,353 - INFO - Processing: W2_080720250003.pdf
+2025-07-21 23:42:04,434 - WARNING - Could not extract name (st ey) or year (None) from W2_080720250003.pdf
+2025-07-21 23:42:04,434 - INFO - Processing: W2_080720250004.pdf
+2025-07-21 23:42:21,759 - WARNING - Could not extract name (Rl IRV) or year (None) from W2_080720250004.pdf
+2025-07-21 23:42:21,759 - INFO - Processing: W2_080720250005.pdf
+2025-07-21 23:42:23,615 - WARNING - Could not extract name (RN TRt) or year (None) from W2_080720250005.pdf
+2025-07-21 23:42:23,615 - INFO - Processing: W2_080720250006.pdf
+2025-07-21 23:42:25,615 - WARNING - Could not extract name (EEER SN) or year (None) from W2_080720250006.pdf
+2025-07-21 23:42:25,616 - INFO - Processing: W2_080720250007.pdf
+2025-07-21 23:42:27,166 - WARNING - Could not extract name (oA
+oS) or year (None) from W2_080720250007.pdf
+2025-07-21 23:42:27,168 - INFO - Processing: W2_080720250001.pdf
+2025-07-21 23:42:28,575 - WARNING - Could not extract name (xer pue) or year (None) from W2_080720250001.pdf
+2025-07-21 23:42:28,576 - INFO - Processing: W2_080720250002.pdf
+2025-07-21 23:42:29,819 - WARNING - Could not extract name (other comp) or year (None) from W2_080720250002.pdf
+2025-07-21 23:42:29,819 - INFO - Processing: W2_080720250003.pdf
+2025-07-21 23:42:48,552 - WARNING - Could not extract name (st ey) or year (None) from W2_080720250003.pdf
+2025-07-21 23:42:48,552 - INFO - Processing: W2_080720250004.pdf
+2025-07-21 23:43:06,016 - WARNING - Could not extract name (Rl IRV) or year (None) from W2_080720250004.pdf
+2025-07-21 23:43:06,016 - INFO - Processing: W2_080720250005.pdf
+2025-07-21 23:43:07,968 - WARNING - Could not extract name (RN TRt) or year (None) from W2_080720250005.pdf
+2025-07-21 23:43:07,968 - INFO - Processing: W2_080720250006.pdf
+2025-07-21 23:43:09,913 - WARNING - Could not extract name (EEER SN) or year (None) from W2_080720250006.pdf
+2025-07-21 23:43:09,914 - INFO - Processing: W2_080720250007.pdf
+2025-07-21 23:43:11,417 - WARNING - Could not extract name (oA
+oS) or year (None) from W2_080720250007.pdf
+2025-07-21 23:43:11,417 - INFO - Processing complete!
+2025-07-21 23:43:11,417 - INFO - Successfully processed: 0
+2025-07-21 23:43:11,417 - INFO - Failed: 14
+2025-07-21 23:43:11,417 - INFO - Failed files:
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250001.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250002.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250003.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250004.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250005.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250006.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250007.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250001.pdf
+2025-07-21 23:43:11,418 - INFO -   - W2_080720250002.pdf
+2025-07-21 23:43:11,419 - INFO -   - W2_080720250003.pdf
+2025-07-21 23:43:11,419 - INFO -   - W2_080720250004.pdf
+2025-07-21 23:43:11,419 - INFO -   - W2_080720250005.pdf
+2025-07-21 23:43:11,419 - INFO -   - W2_080720250006.pdf
+2025-07-21 23:43:11,419 - INFO -   - W2_080720250007.pdf
+2025-07-21 23:51:10,989 - INFO - Starting batch processing from C:\Users\marit\Documents\Scanned Documents
+2025-07-21 23:51:10,990 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-21 23:51:10,992 - INFO - Found 14 files to process
+2025-07-21 23:51:10,992 - INFO - Processing: W2_080720250001.pdf
+2025-07-21 23:51:11,501 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:12,403 - WARNING - Could not extract name (zb uswaels) or year (None) from W2_080720250001.pdf
+2025-07-21 23:51:12,403 - INFO - Processing: W2_080720250002.pdf
+2025-07-21 23:51:12,884 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:13,593 - INFO - Renamed: W2_080720250002.pdf -> Controlnumber_Dept_W2_2022.pdf
+2025-07-21 23:51:13,594 - INFO - Processing: W2_080720250003.pdf
+2025-07-21 23:51:16,925 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:18,182 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-21 23:51:18,182 - INFO - Processing: W2_080720250004.pdf
+2025-07-21 23:51:19,038 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:20,074 - WARNING - Could not extract name (None) or year (None) from W2_080720250004.pdf
+2025-07-21 23:51:20,074 - INFO - Processing: W2_080720250005.pdf
+2025-07-21 23:51:21,235 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:21,985 - WARNING - Could not extract name (PR
+
+ibdu) or year (None) from W2_080720250005.pdf
+2025-07-21 23:51:21,986 - INFO - Processing: W2_080720250006.pdf
+2025-07-21 23:51:23,140 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:23,878 - WARNING - Could not extract name (ald
+
+JOVSSIINLNVLHOdNI) or year (None) from W2_080720250006.pdf
+2025-07-21 23:51:23,878 - INFO - Processing: W2_080720250007.pdf
+2025-07-21 23:51:24,648 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:25,487 - WARNING - Could not extract name (cE Lo) or year (None) from W2_080720250007.pdf
+2025-07-21 23:51:25,488 - INFO - Processing: W2_080720250001.pdf
+2025-07-21 23:51:26,009 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:26,993 - WARNING - Could not extract name (zb uswaels) or year (None) from W2_080720250001.pdf
+2025-07-21 23:51:26,994 - INFO - Processing: W2_080720250002.pdf
+2025-07-21 23:51:27,515 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:28,283 - INFO - Renamed: W2_080720250002.pdf -> Controlnumber_Dept_W2_2022_1.pdf
+2025-07-21 23:51:28,283 - INFO - Processing: W2_080720250003.pdf
+2025-07-21 23:51:31,457 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:32,502 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-21 23:51:32,503 - INFO - Processing: W2_080720250004.pdf
+2025-07-21 23:51:33,385 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:34,451 - WARNING - Could not extract name (None) or year (None) from W2_080720250004.pdf
+2025-07-21 23:51:34,451 - INFO - Processing: W2_080720250005.pdf
+2025-07-21 23:51:35,534 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:36,216 - WARNING - Could not extract name (PR
+
+ibdu) or year (None) from W2_080720250005.pdf
+2025-07-21 23:51:36,216 - INFO - Processing: W2_080720250006.pdf
+2025-07-21 23:51:37,307 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:38,029 - WARNING - Could not extract name (ald
+
+JOVSSIINLNVLHOdNI) or year (None) from W2_080720250006.pdf
+2025-07-21 23:51:38,029 - INFO - Processing: W2_080720250007.pdf
+2025-07-21 23:51:38,767 - WARNING - Could not detect orientation, proceeding with original: (1, 'Error opening data file C:\\Users\\marit\\scoop\\persist\\tesseract\\tessdata/osd.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'osd\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+2025-07-21 23:51:39,595 - WARNING - Could not extract name (cE Lo) or year (None) from W2_080720250007.pdf
+2025-07-21 23:51:39,596 - INFO - Processing complete!
+2025-07-21 23:51:39,596 - INFO - Successfully processed: 2
+2025-07-21 23:51:39,596 - INFO - Failed: 12
+2025-07-21 23:51:39,596 - INFO - Failed files:
+2025-07-21 23:51:39,596 - INFO -   - W2_080720250001.pdf
+2025-07-21 23:51:39,596 - INFO -   - W2_080720250003.pdf
+2025-07-21 23:51:39,596 - INFO -   - W2_080720250004.pdf
+2025-07-21 23:51:39,597 - INFO -   - W2_080720250005.pdf
+2025-07-21 23:51:39,597 - INFO -   - W2_080720250006.pdf
+2025-07-21 23:51:39,597 - INFO -   - W2_080720250007.pdf
+2025-07-21 23:51:39,598 - INFO -   - W2_080720250001.pdf
+2025-07-21 23:51:39,598 - INFO -   - W2_080720250003.pdf
+2025-07-21 23:51:39,598 - INFO -   - W2_080720250004.pdf
+2025-07-21 23:51:39,599 - INFO -   - W2_080720250005.pdf
+2025-07-21 23:51:39,599 - INFO -   - W2_080720250006.pdf
+2025-07-21 23:51:39,599 - INFO -   - W2_080720250007.pdf
+2025-07-21 23:56:22,114 - INFO - Starting batch processing from C:\Users\marit\Documents\test
+2025-07-21 23:56:22,114 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-21 23:56:22,114 - INFO - Found 2 files to process
+2025-07-21 23:56:22,114 - INFO - Processing: W2_080720250004.pdf
+2025-07-21 23:56:23,783 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-21 23:56:25,257 - WARNING - Could not extract name (RHIpbis Vs) or year (None) from W2_080720250004.pdf
+2025-07-21 23:56:25,257 - INFO - Processing: W2_080720250004.pdf
+2025-07-21 23:56:26,855 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-21 23:56:28,393 - WARNING - Could not extract name (RHIpbis Vs) or year (None) from W2_080720250004.pdf
+2025-07-21 23:56:28,393 - INFO - Processing complete!
+2025-07-21 23:56:28,393 - INFO - Successfully processed: 0
+2025-07-21 23:56:28,393 - INFO - Failed: 2
+2025-07-21 23:56:28,393 - INFO - Failed files:
+2025-07-21 23:56:28,393 - INFO -   - W2_080720250004.pdf
+2025-07-21 23:56:28,393 - INFO -   - W2_080720250004.pdf
+2025-07-22 00:03:09,383 - INFO - Starting batch processing from C:\Users\marit\Documents\test
+2025-07-22 00:03:09,383 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:03:09,383 - INFO - Found 2 files to process
+2025-07-22 00:03:09,383 - INFO - Processing: W2_080720250004.pdf
+2025-07-22 00:03:11,154 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:03:12,738 - WARNING - Could not extract name (RHIpbis Vs) or year (None) from W2_080720250004.pdf
+2025-07-22 00:03:12,738 - INFO - Processing: W2_080720250004.pdf
+2025-07-22 00:03:14,461 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:03:16,029 - WARNING - Could not extract name (RHIpbis Vs) or year (None) from W2_080720250004.pdf
+2025-07-22 00:03:16,029 - INFO - Processing complete!
+2025-07-22 00:03:16,029 - INFO - Successfully processed: 0
+2025-07-22 00:03:16,029 - INFO - Failed: 2
+2025-07-22 00:03:16,029 - INFO - Failed files:
+2025-07-22 00:03:16,029 - INFO -   - W2_080720250004.pdf
+2025-07-22 00:03:16,029 - INFO -   - W2_080720250004.pdf
+2025-07-22 00:05:08,429 - INFO - Starting batch processing from C:\Users\marit\Documents\test
+2025-07-22 00:05:08,429 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:05:08,429 - INFO - Found 2 files to process
+2025-07-22 00:05:08,429 - INFO - Processing: W2_080720250004.pdf
+2025-07-22 00:05:09,818 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:05:11,536 - WARNING - Could not extract name (addressandZIPcode DepartmentoftheTreasuryInternalRevenueService) or year (None) from W2_080720250004.pdf
+2025-07-22 00:05:11,536 - INFO - Processing: W2_080720250004.pdf
+2025-07-22 00:05:12,850 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:05:14,547 - WARNING - Could not extract name (addressandZIPcode DepartmentoftheTreasuryInternalRevenueService) or year (None) from W2_080720250004.pdf
+2025-07-22 00:05:14,547 - INFO - Processing complete!
+2025-07-22 00:05:14,547 - INFO - Successfully processed: 0
+2025-07-22 00:05:14,547 - INFO - Failed: 2
+2025-07-22 00:05:14,547 - INFO - Failed files:
+2025-07-22 00:05:14,547 - INFO -   - W2_080720250004.pdf
+2025-07-22 00:05:14,547 - INFO -   - W2_080720250004.pdf
+2025-07-22 00:12:14,929 - INFO - Starting batch processing from C:\Users\marit\Documents\test
+2025-07-22 00:12:14,929 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:12:14,945 - INFO - Found 2 files to process
+2025-07-22 00:12:14,945 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:12:16,827 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:12:18,723 - WARNING - Could not extract name (Stat Retireme) or year (None) from W2_080720250003.pdf
+2025-07-22 00:12:18,724 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:12:20,542 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:12:22,517 - WARNING - Could not extract name (Stat Retireme) or year (None) from W2_080720250003.pdf
+2025-07-22 00:12:22,517 - INFO - Processing complete!
+2025-07-22 00:12:22,517 - INFO - Successfully processed: 0
+2025-07-22 00:12:22,517 - INFO - Failed: 2
+2025-07-22 00:12:22,517 - INFO - Failed files:
+2025-07-22 00:12:22,517 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:12:22,517 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:18:34,402 - INFO - Starting batch processing from C:\Users\marit\Documents\test
+2025-07-22 00:18:34,402 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:18:34,402 - INFO - Found 2 files to process
+2025-07-22 00:18:34,402 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:18:36,391 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:18:38,477 - WARNING - Could not extract name (Stat Retireme) or year (None) from W2_080720250003.pdf
+2025-07-22 00:18:38,477 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:18:40,425 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:18:42,381 - WARNING - Could not extract name (Stat Retireme) or year (None) from W2_080720250003.pdf
+2025-07-22 00:18:42,381 - INFO - Processing complete!
+2025-07-22 00:18:42,381 - INFO - Successfully processed: 0
+2025-07-22 00:18:42,381 - INFO - Failed: 2
+2025-07-22 00:18:42,381 - INFO - Failed files:
+2025-07-22 00:18:42,381 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:18:42,381 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:24:52,680 - INFO - Starting batch processing from C:\Users\marit\Documents\test
+2025-07-22 00:24:52,680 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:24:52,680 - INFO - Found 2 files to process
+2025-07-22 00:24:52,680 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:24:56,411 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:25:00,611 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 00:25:00,611 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:25:04,480 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:25:08,905 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 00:25:08,905 - INFO - Processing complete!
+2025-07-22 00:25:08,905 - INFO - Successfully processed: 0
+2025-07-22 00:25:08,905 - INFO - Failed: 2
+2025-07-22 00:25:08,905 - INFO - Failed files:
+2025-07-22 00:25:08,905 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:25:08,905 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:30:04,311 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_test2
+2025-07-22 00:30:04,311 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:30:04,311 - INFO - Found 2 files to process
+2025-07-22 00:30:04,311 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:30:06,036 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:30:07,807 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:30:07,807 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:30:09,391 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:30:11,162 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:30:11,162 - INFO - Processing complete!
+2025-07-22 00:30:11,162 - INFO - Successfully processed: 0
+2025-07-22 00:30:11,162 - INFO - Failed: 2
+2025-07-22 00:30:11,162 - INFO - Failed files:
+2025-07-22 00:30:11,162 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:30:11,162 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:45:53,587 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_test2
+2025-07-22 00:45:53,587 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:45:53,587 - INFO - Found 2 files to process
+2025-07-22 00:45:53,587 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:45:55,226 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:45:56,997 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:45:56,997 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:45:58,637 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:46:00,556 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:46:00,556 - INFO - Processing complete!
+2025-07-22 00:46:00,556 - INFO - Successfully processed: 0
+2025-07-22 00:46:00,556 - INFO - Failed: 2
+2025-07-22 00:46:00,556 - INFO - Failed files:
+2025-07-22 00:46:00,556 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:46:00,556 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:46:11,908 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_test2
+2025-07-22 00:46:11,923 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:46:11,923 - INFO - Found 2 files to process
+2025-07-22 00:46:11,923 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:46:13,655 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:46:15,566 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:46:15,566 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:46:17,284 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:46:19,156 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:46:19,156 - INFO - Processing complete!
+2025-07-22 00:46:19,156 - INFO - Successfully processed: 0
+2025-07-22 00:46:19,156 - INFO - Failed: 2
+2025-07-22 00:46:19,156 - INFO - Failed files:
+2025-07-22 00:46:19,156 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:46:19,156 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:46:43,295 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 00:46:43,295 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:46:43,295 - INFO - Found 4 files to process
+2025-07-22 00:46:43,295 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:46:45,022 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:46:46,923 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:46:46,923 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:46:50,884 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:46:55,076 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 00:46:55,076 - INFO - Processing: W2_080720250001.pdf
+2025-07-22 00:46:56,808 - INFO - Detected rotation: 180 degrees, correcting...
+2025-07-22 00:46:58,756 - WARNING - Could not extract name (Controlnumber Dept) or year (None) from W2_080720250001.pdf
+2025-07-22 00:46:58,756 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:47:02,467 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:47:06,934 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 00:47:06,934 - INFO - Processing complete!
+2025-07-22 00:47:06,934 - INFO - Successfully processed: 0
+2025-07-22 00:47:06,934 - INFO - Failed: 4
+2025-07-22 00:47:06,934 - INFO - Failed files:
+2025-07-22 00:47:06,938 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:47:06,938 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:47:06,938 - INFO -   - W2_080720250001.pdf
+2025-07-22 00:47:06,938 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:48:00,772 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 00:48:00,772 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:48:00,772 - INFO - Found 2 files to process
+2025-07-22 00:48:00,772 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:48:04,933 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:48:09,719 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 00:48:09,720 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:48:14,207 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:48:20,793 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 00:48:20,800 - INFO - Processing complete!
+2025-07-22 00:48:20,800 - INFO - Successfully processed: 0
+2025-07-22 00:48:20,800 - INFO - Failed: 2
+2025-07-22 00:48:20,800 - INFO - Failed files:
+2025-07-22 00:48:20,800 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:48:20,800 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:56:42,166 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 00:56:42,166 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 00:56:42,166 - INFO - Found 2 files to process
+2025-07-22 00:56:42,166 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:56:46,101 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:56:50,510 - WARNING - Could not extract name (Controjjnumber DDOBl) or year (None) from W2_080720250003.pdf
+2025-07-22 00:56:50,510 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 00:56:54,258 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 00:56:59,074 - WARNING - Could not extract name (Controjjnumber DDOBl) or year (None) from W2_080720250003.pdf
+2025-07-22 00:56:59,074 - INFO - Processing complete!
+2025-07-22 00:56:59,075 - INFO - Successfully processed: 0
+2025-07-22 00:56:59,075 - INFO - Failed: 2
+2025-07-22 00:56:59,075 - INFO - Failed files:
+2025-07-22 00:56:59,075 - INFO -   - W2_080720250003.pdf
+2025-07-22 00:56:59,075 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:00:59,517 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 01:00:59,517 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 01:00:59,517 - INFO - Found 2 files to process
+2025-07-22 01:00:59,517 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 01:01:03,496 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 01:01:05,612 - WARNING - No text extracted from W2_080720250003.pdf
+2025-07-22 01:01:05,612 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 01:01:09,511 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 01:01:11,477 - WARNING - No text extracted from W2_080720250003.pdf
+2025-07-22 01:01:11,477 - INFO - Processing complete!
+2025-07-22 01:01:11,477 - INFO - Successfully processed: 0
+2025-07-22 01:01:11,477 - INFO - Failed: 2
+2025-07-22 01:01:11,482 - INFO - Failed files:
+2025-07-22 01:01:11,482 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:01:11,483 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:02:09,548 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 01:02:09,548 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 01:02:09,548 - INFO - Found 2 files to process
+2025-07-22 01:02:09,548 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 01:02:13,489 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 01:02:18,004 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 01:02:18,004 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 01:02:22,033 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 01:02:26,622 - WARNING - Could not extract name (None) or year (None) from W2_080720250003.pdf
+2025-07-22 01:02:26,623 - INFO - Processing complete!
+2025-07-22 01:02:26,623 - INFO - Successfully processed: 0
+2025-07-22 01:02:26,623 - INFO - Failed: 2
+2025-07-22 01:02:26,623 - INFO - Failed files:
+2025-07-22 01:02:26,623 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:02:26,623 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:04:00,068 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 01:04:00,068 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 01:04:00,068 - INFO - Found 2 files to process
+2025-07-22 01:04:00,068 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 01:04:04,001 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 01:04:08,488 - WARNING - Could not extract name (Controjjnumber DDOBl) or year (None) from W2_080720250003.pdf
+2025-07-22 01:04:08,488 - INFO - Processing: W2_080720250003.pdf
+2025-07-22 01:04:12,334 - INFO - Detected rotation: 90 degrees, correcting...
+2025-07-22 01:04:16,699 - WARNING - Could not extract name (Controjjnumber DDOBl) or year (None) from W2_080720250003.pdf
+2025-07-22 01:04:16,699 - INFO - Processing complete!
+2025-07-22 01:04:16,699 - INFO - Successfully processed: 0
+2025-07-22 01:04:16,699 - INFO - Failed: 2
+2025-07-22 01:04:16,699 - INFO - Failed files:
+2025-07-22 01:04:16,699 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:04:16,699 - INFO -   - W2_080720250003.pdf
+2025-07-22 01:19:44,479 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 01:19:44,479 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 01:19:44,479 - INFO - Found 2 files to process
+2025-07-22 01:19:44,479 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-22 01:19:51,809 - WARNING - Could not extract name (OBT            SGTGSQMO) or year (None) from W2_080720250003_1.pdf
+2025-07-22 01:19:51,809 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-22 01:19:59,040 - WARNING - Could not extract name (OBT            SGTGSQMO) or year (None) from W2_080720250003_1.pdf
+2025-07-22 01:19:59,041 - INFO - Processing complete!
+2025-07-22 01:19:59,041 - INFO - Successfully processed: 0
+2025-07-22 01:19:59,041 - INFO - Failed: 2
+2025-07-22 01:19:59,041 - INFO - Failed files:
+2025-07-22 01:19:59,041 - INFO -   - W2_080720250003_1.pdf
+2025-07-22 01:19:59,041 - INFO -   - W2_080720250003_1.pdf
+2025-07-22 01:24:00,595 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 01:24:00,595 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 01:24:00,595 - INFO - Found 2 files to process
+2025-07-22 01:24:00,595 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-22 01:24:03,761 - ERROR - Error extracting text from PDF C:\Users\marit\Documents\w2_taxstatement_test\W2_080720250003_1.pdf: name 'pages' is not defined
+2025-07-22 01:24:03,761 - WARNING - No text extracted from W2_080720250003_1.pdf
+2025-07-22 01:24:03,761 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-22 01:24:06,845 - ERROR - Error extracting text from PDF C:\Users\marit\Documents\w2_taxstatement_test\W2_080720250003_1.pdf: name 'pages' is not defined
+2025-07-22 01:24:06,850 - WARNING - No text extracted from W2_080720250003_1.pdf
+2025-07-22 01:24:06,850 - INFO - Processing complete!
+2025-07-22 01:24:06,850 - INFO - Successfully processed: 0
+2025-07-22 01:24:06,850 - INFO - Failed: 2
+2025-07-22 01:24:06,850 - INFO - Failed files:
+2025-07-22 01:24:06,850 - INFO -   - W2_080720250003_1.pdf
+2025-07-22 01:24:06,852 - INFO -   - W2_080720250003_1.pdf
+2025-07-22 01:24:28,717 - INFO - Starting batch processing from C:\Users\marit\Documents\w2_taxstatement_test
+2025-07-22 01:24:28,717 - INFO - Output directory: C:\Users\marit\Documents\Renamed Documents
+2025-07-22 01:24:28,717 - INFO - Found 2 files to process
+2025-07-22 01:24:28,717 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-22 01:24:35,137 - INFO - Renamed: W2_080720250003_1.pdf -> Treasury_Internal_W2_2019.pdf
+2025-07-22 01:24:35,137 - INFO - Processing: W2_080720250003_1.pdf
+2025-07-22 01:24:41,786 - INFO - Renamed: W2_080720250003_1.pdf -> Treasury_Internal_W2_2019_1.pdf
+2025-07-22 01:24:41,787 - INFO - Processing complete!
+2025-07-22 01:24:41,787 - INFO - Successfully processed: 2
+2025-07-22 01:24:41,787 - INFO - Failed: 0
